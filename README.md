@@ -5,3 +5,4 @@
 - 🦙 [git-llama](https://github.com/tlehman/git-llama) - local [RAG search](https://grokipedia.com/page/Retrieval-Augmented_Generation) for git repos
 - ⌨️ [uud](https://github.com/tlehman/uud) - unicode dump command
 - 🎟️ [jirastatus](https://github.com/tlehman/jirastatus) - Command line tool to check on the status of a Jira ticket
+- ✝️ [ccc](https://github.com/tlehman/ccc) - Command line interface to to the [Catechism of the Catholic Church](https://www.vatican.va/archive/ENG0015/_INDEX.HTM)
