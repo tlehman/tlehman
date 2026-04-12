@@ -1,6 +1,6 @@
 
 # Current projects
-- λx:Σₙ 1/xⁿ [latex2unicode])https://github.com/tlehman/latex2unicode): Convert $\LaTeX$ to `unicode` in Clojure (babashka)
+- λx:Σₙ 1/xⁿ [latex2unicode])[https://github.com/tlehman/latex2unicode): Convert $\LaTeX$ to `unicode` in Clojure (babashka)
 - 📖 [litprog-skill](https://github.com/tlehman/litprog-skill): Literate programming skill for Claude Code
 - 📷 [imgclass](https://github.com/tlehman/imgclass): Swift CLI to detect classes of objects in images (local only)
 - 🐍 [distributed_prompt](https://github.com/tlehman/distributed_prompt): Distributed horizontally scalable prompt for [Recursive Language Models]([url](https://github.com/alexzhang13/rlm?tab=readme-ov-file#recursive-language-models-rlms))
