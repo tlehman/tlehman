@@ -1,6 +1,5 @@
 
 # Current projects
-- [litgo](https://github.com/tlehman/litgo): Literate programming in Go using markdown (with nvim plugin, $\LaTeX$ math and mermaid diagram support)
 - `⣿⡿⣀ 76%` [dotbar](https://github.com/tlehman/dotbar): Braille-dot progress bar for statuslines and terminals
 - $\TeX\text{sh}$ [texsh](https://github.com/tlehman/texsh): Render $\LaTeX$ to the terminal and also convert to `unicode`
 - λx:Σₙ 1/xⁿ [latex2unicode](https://github.com/tlehman/latex2unicode): Convert $\LaTeX$ to `unicode` in Clojure (babashka)
