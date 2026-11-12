@@ -1,5 +1,6 @@
 
 # Current projects
+- `⥤` [literature-links](https://github.com/mathlib-initiative/literature-links) a standard format for annotating mappings from PDFs to Lean
 - `⣿⡿⣀ 76%` [dotbar](https://github.com/tlehman/dotbar): Braille-dot progress bar for statuslines and terminals
 - $\TeX\text{sh}$ [texsh](https://github.com/tlehman/texsh): Render $\LaTeX$ to the terminal and also convert to `unicode`
 - λx:Σₙ 1/xⁿ [latex2unicode](https://github.com/tlehman/latex2unicode): Convert $\LaTeX$ to `unicode` in Clojure (babashka)
